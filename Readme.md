@@ -1,6 +1,6 @@
 # Lenobitech PCB
 
-![](./imgs/9.png)
+![](./imgs/10.png)
 
 ## Project features
 
