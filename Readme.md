@@ -1,7 +1,5 @@
 # Lenobitech PCB
 
-![](./imgs/10.png)
-
 ## Project features
 
 - Designed with Altium Designer & JLCPCB.
@@ -10,3 +8,5 @@
 - Four-layer PCB layout and routing.
 - 4-bit GPIO.
 - USB Port for Power Supply.
+
+![](./imgs/10.png)
