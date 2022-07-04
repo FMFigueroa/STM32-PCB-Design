@@ -1,5 +1,7 @@
 # Lenobitech PCB
 
+![](./imgs/logo.png)
+
 ## Project features
 
 - Designed with Altium Designer & JLCPCB.
@@ -9,4 +11,4 @@
 - 4-bit GPIO.
 - USB Port for Power Supply.
 
-![](./imgs/10.png)
+![](./imgs/1.png)
