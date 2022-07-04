@@ -1,0 +1,52 @@
+Change Component DesignItemId : Designator=C2 Old DesignItemId=C0603_16V New DesignItemId=CAP_0603_16V
+Change Component DesignItemId : Designator=C3 Old DesignItemId=C0603_16V New DesignItemId=CAP_0805_16V
+Change Component Footprint: Designator=C3 Old Footprint=CAPC1608X90N New Footprint=CAPC2012X145N
+Change Component Designator: OldDesignator=C3 NewDesignator=C4
+Change Component Designator: OldDesignator=C4 NewDesignator=C5
+Change Component Designator: OldDesignator=C5 NewDesignator=C6
+Change Component Designator: OldDesignator=C6 NewDesignator=C7
+Change Component Designator: OldDesignator=C7 NewDesignator=C8
+Change Component Designator: OldDesignator=C8 NewDesignator=C9
+Change Component Designator: OldDesignator=C9 NewDesignator=C10
+Change Component Designator: OldDesignator=C10 NewDesignator=C11
+Change Component Designator: OldDesignator=C11 NewDesignator=C12
+Change Component Designator: OldDesignator=C12 NewDesignator=C13
+Change Component Designator: OldDesignator=C13 NewDesignator=C14
+Change Component Designator: OldDesignator=C14 NewDesignator=C15
+Change Component Designator: OldDesignator=C15 NewDesignator=C16
+Change Component Designator: OldDesignator=C16 NewDesignator=C17
+Change Component Designator: OldDesignator=C17 NewDesignator=C18
+Change Component Designator: OldDesignator=J1 NewDesignator=J3
+Change Component Designator: OldDesignator=J2 NewDesignator=J1
+Change Component Designator: OldDesignator=J3 NewDesignator=J2
+Change Component Designator: OldDesignator=U2 NewDesignator=U3
+Change Component Designator: OldDesignator=U3 NewDesignator=U2
+Change Component Description : Designator=C4 Old Description=C0603C225K4PACTU
+2.2µF ±10% 16V Ceramic Capacitor X5R 0603 _1608 Metric_ New Description=C0805C226M8PAC7800
+22µF ±20% 16V Ceramic Capacitor X5R 0805 _2012 Metric_
+Change component parameters: Designator = "C2" ("C2"); Footprint = "CAPC1608X90N"; UniqueID = "\HJWXXDDW" ("\HJWXXDDW")
+Change component parameters (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "KEMET"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "C0603C225K4PACTU"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0603 KEMET"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/C0603C225K4PACTU/KEMET/view-part/609526/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "2u2"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C3" ("C3"); Footprint = "CAPC1608X90N"; UniqueID = "\NJOXVFWZ" ("\NJOXVFWZ")
+Change component parameters (AddParameter): Name = "Digi-Key_Part_Number"; Value = "399-12069-1-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Digi-Key_Purchase_URL"; Value = "https://www.digikey.com/product-detail/en/kemet/C0805C226M8PAC7800/399-12069-1-ND/5327671?utm_source=snapeda&utm_medium=aggregator&utm_campaign=symbol"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "KEMET"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "C0805C226M8PAC7800"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "2012 KEMET"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/C0805C226M8PAC7800/KEMET/view-part/3932518/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "22u"; VariantName = "[No Variations]"
+Added Component: Designator=C3(CAPC2012X145N)
+Add component (AddParameter): Name = "Digi-Key_Part_Number"; Value = "399-12069-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Purchase_URL"; Value = "https://www.digikey.com/product-detail/en/kemet/C0805C226M8PAC7800/399-12069-1-ND/5327671?utm_source=snapeda&utm_medium=aggregator&utm_campaign=symbol"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "KEMET"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "C0805C226M8PAC7800"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "2012 KEMET"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/C0805C226M8PAC7800/KEMET/view-part/3932518/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22u"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C3-1
+Added Pin To Net: NetName=+5V Pin=C3-2

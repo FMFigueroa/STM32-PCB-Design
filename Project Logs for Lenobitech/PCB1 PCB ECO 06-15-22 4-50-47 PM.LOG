@@ -1,0 +1,5 @@
+Change Component DesignItemId : Designator=J3 Old DesignItemId=1722872105 New DesignItemId=SM06B-SRSS-TB
+Change Component Description : Designator=J3 Old Description=Connector Header Through Hole 5 position 0.138" (3.50mm) Molex New Description=Connector Header Surface Mount, Right Angle 6 position 0.039" (1.00mm)
+Added Pin To Net: NetName=MCU PA7 Pin=J3-6
+Added Pin To Net: NetName=MCU PA7 Pin=U2-17
+Added Net: Name=MCU PA7

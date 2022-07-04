@@ -1,0 +1,15 @@
+Remove Pin=J1-2 From Net=USB_D_N
+Remove Pin=J1-3 From Net=USB_D_P
+Remove Pin=J3-2 From Net=MCU SWDIO
+Remove Pin=J3-3 From Net=MCU NRST
+Remove Pin=J3-4 From Net=MCU SWCLK
+Remove Pin=J3-6 From Net=MCU SWO
+Remove Pin=U2-12 From Net=IMU INT
+Remove Pin=U2-23 From Net=IMU SCL
+Remove Pin=U2-24 From Net=IMU SDA
+Remove Pin=U3-32 From Net=USB_D_N
+Remove Pin=U3-33 From Net=USB_D_P
+Remove Pin=U3-34 From Net=MCU SWDIO
+Remove Pin=U3-37 From Net=MCU SWCLK
+Remove Pin=U3-39 From Net=MCU SWO
+Remove Pin=U3-45 From Net=IMU INT
