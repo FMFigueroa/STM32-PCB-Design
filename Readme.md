@@ -1,6 +1,6 @@
 # Lenobitech PCB
 
-![](./img/logo.png)
+![](./img/3.png)
 
 ## Project features
 
@@ -12,3 +12,9 @@
 - USB Port for Power Supply.
 
 ![](./img/1.png)
+
+![](./img/2.png)
+
+![](./img/4.png)
+
+![](./img/logo.png)
