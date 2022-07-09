@@ -1,0 +1,23 @@
+Comment,Description,Designator,Footprint,LibRef,Quantity,LCSC Part #
+"CAP_0603","C0603C225K4PACTU
+2.2µF ±10% 16V Ceramic Capacitor X5R 0603 _1608 Metric_","C1, C2, C11, C17","CAPC1608X90N","C0603_16V, CAP_0603_16V","4"
+"CAP_0805_16V","C0805C226M8PAC7800
+22µF ±20% 16V Ceramic Capacitor X5R 0805 _2012 Metric_","C3","CAPC2012X145N","CAP_0805_16V","1"
+"CAP_0603","C0805C226M8PAC7800
+22µF ±20% 16V Ceramic Capacitor X5R 0805 _2012 Metric_","C4","CAPC2012X145N","CAP_0805_16V","1"
+"CAP_0402","C0402C104K4RAC7411_KEMET
+0.1µF ±10% 16V Ceramic Capacitor X7R 0402 (1005 Metric)","C5, C6, C7, C8, C12, C13, C14, C15, C16, C18","CAPC1005X55N","CAP_0402_16V, C0402_16V","10"
+"CAP_0402_16V","C0402C104K4RAC7411_KEMET
+0.1µF ±10% 16V Ceramic Capacitor X7R 0402 (1005 Metric)","C9, C10","CAPC1005X55N","CAP_0402_16V","2"
+"HSMS-C190","Red 626nm LED Indication - Discrete 2.1V 0603 _1608 Metric_","D1","LEDM1608X80","HSMS-C190","1"
+"HSMS-C190_1","Red 626nm LED Indication - Discrete 2.1V 0603 _1608 Metric_","D2","LEDM1608X80","HSMS-C190_RD","1"
+"Comment","","Designator20, Designator21, Designator22, Designator23","Fix-Hole-2mm","","4"
+"120R","1 kOhms @ 100MHz 1 Güç Hattı Ferrit Boncuk 0603 (1608 Metrik) 800mA 230mOhm","FB1","BEADC1608X75N","BLM18KG102WH1D","1"
+"47346-0001","USB Connectors MICRO USB B RECPT BTTM MOUNT ASSY","J1","MOLEX_47346-0001","47346-0001","1","C132560"
+"1722872105","Connector Header Surface Mount, Right Angle 6 position 0.039"" (1.00mm)","J2","JST_SM06B-SRSS-TB(LF)(SN)","SM06B-SRSS-TB","1"
+"TC2030-IDC-NL","CABLE ADAPTER 6 POS","J3","TAG_TC2030-IDC-NL","TC2030-IDC-NL","1"
+"RES_0402","AC0402 10K 5% 0,063W AUTOMO","R1, R2, R3, R4, R5, R6, R7","RESC1005X37N","RES_0402","7"
+"AMS1117","Sot223/Pkg 1-Amp 5-Volt Low Drop Out Voltage Regulatator","U1","SOT229P700X180-4N","AMS1117","1"
+"MPU-6050","Is the world’s first integrated 6-axis MotionTracking device that combines a 3-axis gyroscope, 3-axis accelerometer, and a Digital Motion Processor™ (DMP) all in a small 4x4x0.9mm Package.","U2","IC_MPU6050","MPU6050","1"
+"STM32F411CEU6","ARM® Cortex®-M4 STM32F4 Microcontroller IC 32-Bit 100MHz 512KB (512K x 8) FLASH 48-UFQFPN (7x7)","U3","QFN50P700X700X60-49N","STM32F411CEU6","1"
+"ABM3B-25.000MHZ-10-1-U-T","25 MHz ±10ppm Crystal 10pF 50 Ohms 4-SMD, No Lead","Y1","OSC_ABM3B-25.000MHZ-10-1-U-T","ABM3B-25.000MHZ-10-1-U-T","1"
