@@ -1,6 +1,6 @@
 # Lenobitech PCB
 
-![](./img/1.png)
+![](./img/3.png)
 
 ## Project features
 
@@ -11,7 +11,7 @@
 - 4-bit GPIO.
 - USB Port for Power Supply.
 
-![](./img/3.png)
+![](./img/1.png)
 
 ![](./img/2.png)
 
